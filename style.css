@@ -1,0 +1,154 @@
+/* navbar */
+.navbar {
+    background-color: white;
+}
+
+.navbar li a {
+    color: royalblue!important;
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+    margin: 0 10px;
+}
+
+.navbar li a:hover {
+    color: royalblue!important;
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+
+
+
+#headjumbo img {
+    height: 200px;
+    width: auto;
+
+}
+
+#headjumbo {
+    color: black;
+}
+
+#headjumbo h1 {
+    font-size: 2rem;
+}
+
+#headjumbo h3 {
+    font-style: italic;
+    font-size: 1.5rem;
+   
+}
+
+
+.jumbotron {
+    background-color: lightgrey;
+    box-shadow: 1px 1px 5px gray;
+}
+
+body {
+    background: rgb(170, 180, 192);
+
+}
+
+#About {
+    margin-top: 75px;
+    font-stretch: narrower;
+    font-weight: 500;
+    
+}
+
+#skills img {
+    height: 40px;
+    width: auto;
+    font-size: 5rem;
+    margin: 10px;
+    
+    
+
+
+}
+
+#secondH1 {
+    text-align: center;
+    background-color: lightslategray;
+    font-size: 1.5rem;
+}
+
+#Thirdh1 {
+    text-align: center;
+    background-color: lightslategray;
+    font-size: 1.5rem;
+}
+
+
+/* work history */
+#proj h4 {
+    font-size: 1rem;
+    color:black
+    
+}
+
+#proj2 h4 {
+    font-size: 1rem;
+    color: black;
+}
+
+#Fourthh1 {
+    text-align: center;
+    background-color: lightslategray;
+    font-size: 1.5rem;
+}
+
+#experience h3 {
+    font-size: 1.5rem;
+}
+
+#fifthh1 {
+    text-align: center;
+    background-color: lightslategray;
+    font-size: 1.5rem;
+}
+
+/* cards */
+#reviews .card {
+    margin-top: 50px;
+    box-shadow: 1px 1px 1px gray;
+
+}
+
+#reviews {
+    margin-top: 50px;
+
+}
+
+.card-header {
+    background-color: lightslategrey;
+    color: black;
+    font-size: 1.3rem;
+}
+/* footer */
+#footer {
+    background-color: lightslategray;
+    margin-top: 100px;
+}
+
+#contact {
+    color: black;
+
+}
+
+#contact svg.svg-inline--fa {
+    font-size: 3rem;
+    margin: auto;
+    color: blue;
+    margin: 10px;
+}
+    
+#contact svg.svg-inline--fa:hover {
+    color: black!important;
+    font-size: 1.8 rem;
+}
+
+    
